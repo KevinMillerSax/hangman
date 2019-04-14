@@ -1,0 +1,25 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+}
+
+#guess {
+    letter-spacing: 0.5rem; 
+}
+
+section{
+    background-image: url(/images/hangman.png);
+    width: 75px;
+    height: 200px; 
+    margin: 0 auto; 
+}
+
+header{
+    font-size: 200%;  
+}
+#letters{
+    font-display: 100%;
+    background-color: rgba(191, 102, 63, .5);
+    margin-top: 20px; 
+}
